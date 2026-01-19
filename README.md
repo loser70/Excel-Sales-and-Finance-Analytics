@@ -13,13 +13,13 @@ The project demonstrates how raw business data can be converted into **actionabl
 ### 📁 Reports Included
 
 - **Customer Performance Report**  
-  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/snehadra09/Excel-Sales-and-FInance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/loser70/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
 - **Regional Performance Report**  
-  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/snehadra09/Excel-Sales-and-FInance-Analytics/blob/main/Regional%20Performance%20Report.pdf)
+  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/loser70/Excel-Sales-and-FInance-Analytics/blob/main/Regional%20Performance%20Report.pdf)
 
 - **Best Selling Products Report**  
-  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/snehadra09/Excel-Sales-and-FInance-Analytics/blob/main/Best%20Selling%20Products.pdf)
+  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/loser70/Excel-Sales-and-FInance-Analytics/blob/main/Best%20Selling%20Products.pdf)
 
 ### 🎯 Project Objectives
 - Analyze **customer-wise sales performance**
@@ -42,10 +42,10 @@ The project demonstrates how raw business data can be converted into **actionabl
 ### 📁 Reports Included
 
 - **Profit & Loss (P&L) by Fiscal Year**  
-  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/snehadra09/Excel-Sales-and-FInance-Analytics/blob/main/P%20%26%20L%20report%20by%20Fiscal%20Year.pdf)
+  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/loser70/Excel-Sales-and-FInance-Analytics/blob/main/P%20%26%20L%20report%20by%20Fiscal%20Year.pdf)
 
 - **Profit & Loss (P&L) by Months**  
-  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/snehadra09/Excel-Sales-and-FInance-Analytics/blob/main/P%20%26%20L%20statement%20by%20Months.pdf)
+  [![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/loser70/Excel-Sales-and-FInance-Analytics/blob/main/P%20%26%20L%20statement%20by%20Months.pdf)
 
 ### 🎯 Project Objectives
 - Evaluate financial performance across fiscal years
